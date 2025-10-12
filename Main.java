@@ -6,3 +6,4 @@ public class Character {
     String name;
     int level;
 }
+// Character system added
