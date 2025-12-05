@@ -1,1 +1,1 @@
-c# Magical Bookpack Manga Project
+# Magical Bookpack Manga Project
